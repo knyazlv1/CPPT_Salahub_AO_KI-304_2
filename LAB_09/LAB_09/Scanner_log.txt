@@ -1,0 +1,26 @@
+Cartridge changed
+
+Scanner turned on
+
+Brand of scanner: Canon
+Length of scanner: 50.0
+Width of scanner: 25.0
+Height of scanner: 10
+Scanner has a handle: False
+Scanner supports color scan: True
+
+Please turn off the copy machine
+
+Document 'cat' scanned and data saved
+
+Document 'cat' scanned and data saved
+
+Scanner is duplex: True
+Resolution DPI: 600
+Photogetter: CCD
+Optical system: Class1
+Interface: RS232-C
+Source of light: Xenon lamps
+
+Scanner turned off
+
