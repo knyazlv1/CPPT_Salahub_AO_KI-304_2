@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ki304.salahub.Lab4","c":"EquationsApp","l":"EquationsApp()","u":"%3Cinit%3E()"},{"p":"ki304.salahub.Lab4","c":"EquationsApp","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"ki304.salahub.Lab4","c":"EquationsApp","l":"run()"}];updateSearchResults();
