@@ -1,0 +1,51 @@
+Scaner is duplex: true
+Resulotin DPI: 2400
+Photogetter: Camera
+Optical system: PZZ
+Interface: ARM
+Source of light: Laser
+
+Brand of scaner: Canon
+Length of scaner: 50.0
+Width of scaner: 25.0
+Height of scaner: 10.0
+Scaner have a handle: true
+Scaner have the color scan: true
+
+
+The scanner is on: true
+
+
+Point the scanner at the barcode!
+Scanned barcode: 4821456895
+Emptiness of buffer:false
+Data successfully saved: true
+Buffer is clean:true
+
+
+Point the scanner at the qrrcode!
+Scanned qrcode: https//t.me//KItop
+Emptiness of buffer:false
+Data successfully saved: true
+Buffer is clean:true
+
+
+Point the scanner at the document or put document into the scaner!
+Scanned document: scanned.doc
+Emptiness of buffer:false
+Data successfully saved: true
+Buffer is clean:true
+
+
+Point the scanner at photo or put photo into the scaner!
+Scanned photo: Photo with cat
+Emptiness of buffer:false
+Data successfully saved: true
+Buffer is clean:true
+
+
+Scanner restarted
+
+The scanner is off: false
+
+
